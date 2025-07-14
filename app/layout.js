@@ -6,9 +6,9 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const dmSans = DM_Sans({ subsets: ["latin"], variable: "--font-dm-sans" });
 
 export const metadata = {
-	title: "LA Mridul(Full-Stack Developer)",
+	title: "Anu Radha - Wordpress Designer",
 	description:
-		"Portfolio of LA Mridul, full-stack JavaScript developer specializing in React, Next.js, and modern web technologies. View projects, read my blog, or get in touch.",
+		"I&#39;m Anu Radha — a WordPress designer crafting powerful eCommerce sites with Elementor and SEO best practices. Let’s build your next high-converting, search-friendly website.",
 	icons: {
 		icon: "/favicon.png",
 	},

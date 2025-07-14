@@ -1,22 +1,17 @@
 import React from "react";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import {  FaLinkedin } from "react-icons/fa";
 import { IoMdMail } from "react-icons/io";
 const SocialLinks = () => {
     const socialLinks = [
 		{
-			title: "GitHUb",
-			icon: <FaGithub />,
-			link: "https://github.com/ahmad-mridul",
-		},
-		{
 			title: "LinkedIn",
 			icon: <FaLinkedin />,
-			link: "https://www.linkedin.com/in/la-mridul/",
+			link: "https://www.linkedin.com/in/rianuradha",
 		},
 		{
 			title: "Gmail",
 			icon: <IoMdMail />,
-			link: "mailto:lamridul.leo@gmail.com",
+			link: "mailto:radharani5703@gmail.com",
 		},
 	];
 	return (

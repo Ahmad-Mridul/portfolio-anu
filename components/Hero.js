@@ -11,14 +11,10 @@ const Hero = () => {
 					<div className="space-y-5">
 						<div className="space-y-5">
 							<h1 className="font-bold">
-								Hi all, I&#39;m LA Mridul 👋
+								Hi all, I&#39;m Anu Radha 👋
 							</h1>
 							<p id="resume">
-								🚀 A passionate Full Stack Developer
-								specializing in building dynamic web apps with
-								JavaScript, React.js, Next.js, and Node.js —
-								blending clean code with modern UI for powerful
-								digital experiences.
+								🚀 A passionate web designer specializing in WordPress, Webflow, Wix, and Squarespace. Expert in creating custom, responsive, and SEO-friendly websites using Elementor, WooCommerce, and modern design principles — delivering beautiful and effective digital experiences tailored to your needs.
 							</p>
 						</div>
 						<div className="">

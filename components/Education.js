@@ -33,7 +33,6 @@ const Education = () => {
 			research: "",
 		},
 	];
-	console.log(educations[0]);
 	return (
 		<div id="education" className="w-full md:px-10 py-8 text-white space-y-5">
 			<h2 className="font-bold">Education</h2>
