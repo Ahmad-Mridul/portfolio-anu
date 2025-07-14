@@ -23,6 +23,17 @@ const Education = () => {
 			project: "",
 			research: "",
 		},
+		// Hons
+		{
+			icon: "https://i.ibb.co/XrtQnrpy/city-University.png",
+			institution: "CITY UNIVERSITY",
+			department: "COMPUTER SCIENCE AND ENGINEERING",
+			from: "2018",
+			to: "2022",
+			project: "Online Auction System - Python, Django",
+			research: "",
+		},
+		// masters
 		{
 			icon: "https://i.ibb.co/XrtQnrpy/city-University.png",
 			institution: "CITY UNIVERSITY",

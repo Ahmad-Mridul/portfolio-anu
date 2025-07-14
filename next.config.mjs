@@ -49,6 +49,22 @@ const nextConfig = {
 				protocol: "https",
 				hostname: "iili.io",
 			},
+			{
+				protocol: "https",
+				hostname: "cdn4.iconfinder.com",
+			},
+			{
+				protocol: "https",
+				hostname: "cdn-icons-png.flaticon.com",
+			},
+			{
+				protocol: "https",
+				hostname: "i.pinimg.com",
+			},
+			{
+				protocol: "https",
+				hostname: "www.svgrepo.com",
+			},
 		],
 	},
 };

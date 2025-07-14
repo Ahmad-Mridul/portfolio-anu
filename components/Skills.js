@@ -14,44 +14,24 @@ const Skills = () => {
 			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
 		},
 		{
-			title: "JavaScript",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
-		},
-		{
-			title: "TypeScript",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-		},
-		{
-			title: "React",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
-		},
-		{
-			title: "Next.js",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
-		},
-		{
-			title: "Node.js",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
-		},
-		{
-			title: "Express",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
-		},
-		{
-			title: "MongoDB",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
-		},
-		{
-			title: "PostgreSQL",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
-		},
-		{
-			title: "Prisma",
-			icon: "https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png",
+			title: "Bootstrap",
+			icon: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
 		},
 		{
 			title: "Tailwind CSS",
 			icon: "https://www.svgrepo.com/show/374118/tailwind.svg",
+		},
+		{
+			title: "WordPress",
+			icon: "https://cdn-icons-png.flaticon.com/512/174/174881.png",
+		},
+		{
+			title: "Wix",
+			icon: "https://cdn-icons-png.flaticon.com/512/5968/5968770.png",
+		},
+		{
+			title: "Squarespace",
+			icon: "https://i.pinimg.com/280x280_RS/1c/ea/1c/1cea1cc797f510a845c8caba89ca8cf0.jpg",
 		},
 		{
 			title: "Git",
@@ -60,25 +40,16 @@ const Skills = () => {
 		{
 			title: "GitHub",
 			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
-		},
-		{
-			title: "Firebase",
-			icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
-		},
-		{
-			title: "Vercel",
-			icon: "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png",
-		},
+		}
 	];
 	return (
 		<div className="w-full">
 			<div className="w-full md:flex py-10 text-white">
-				<div className="md:w-1/2   order-2">
+				<div className="md:w-1/2 order-2">
 					<div className="space-y-5">
 						<h1 className="font-bold">What I do?</h1>
 						<p>
-							🚀 Enthusiastic Full Stack Developer Exploring the
-							Entire Tech Ecosystem
+							🚀 Enthusiastic Web Designer Navigating the No-Code and CMS Ecosystem — specializing in WordPress, Webflow, Wix, and Squarespace to craft beautiful, functional, and SEO-friendly websites.
 						</p>
 						<div className="grid grid-cols-4 gap-5">
 							{skills.map((skill, idx) => (
@@ -100,16 +71,11 @@ const Skills = () => {
 							))}
 						</div>
 						<p>
-							⚡ Crafting highly interactive and responsive user
-							interfaces for web and mobile apps <br />⚡ Building
-							Progressive Web Apps (PWAs) with modern SPA and
-							multi-page stacks <br /><span id="education">⚡ Integrating third-party
-							services like Firebase, AWS, and DigitalOcean for
-							robust backend support</span>
+							⚡ Designing responsive and visually engaging websites using WordPress, Webflow, Wix, and Squarespace <br />⚡ Creating custom eCommerce experiences with WooCommerce, and payment gateways <br /><span id="education">⚡ IOptimizing websites for SEO, speed, and mobile performance to drive traffic and conversions</span>
 						</p>
 					</div>
 				</div>
-				<div className="md:w-1/2 order-1">
+				<div className="md:w-1/2 order-1 flex items-center justify-center">
 					<SkillsLottie />
 				</div>
 			</div>

@@ -5,7 +5,7 @@ import SocialLinks from "./SocialLinks";
 import Link from "next/link";
 const Hero = () => {
 	return (
-		<div className="w-full md:flex py-10 text-white pt-16 md:pt-20" id="top">
+		<div className="w-full md:flex py-10 text-white md:pt-30" id="top">
 			<div className="md:w-1/2 flex items-center justify-center">
 				<div className="space-y-5">
 					<div className="space-y-5">
