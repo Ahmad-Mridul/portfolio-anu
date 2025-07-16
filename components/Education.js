@@ -5,44 +5,44 @@ import React from "react";
 const Education = () => {
 	const educations = [
 		{
-			icon: "https://i.ibb.co/5h7hp8kC/GAR.png",
-			institution: "GHUNIPARA ABDUR RASHID SCHOOL AND COLLEGE",
-			department: "Science",
+icon: "https://bhsfeni.edu.bd/wp-content/uploads/2023/10/bhstrans_logo.png",
+			institution: "Baligoan High School",
+			department: "Business Studies",
 			from: "",
 			to: "",
-			completed: "2015",
+			completed: "2013",
 			project: "",
 			research: "",
 		},
 		{
-			icon: "https://i.ibb.co/tpfGBWzT/RLC-removebg-preview-1.png",
-			institution: "RESIDENTIAL LABORATORY COLLEGE",
-			department: "Science",
-			from: "2017",
-			to: "2019",
+			icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoGdDDteBb0Sf9-JKwRCDdNnbn9OyPzVruUQ&s",
+			institution: "Nawab Fayzunnessa Govt. College",
+			department: "Business Studies",
+			from: "2013",
+			to: "2015",
 			project: "",
 			research: "",
 		},
 		// Hons
 		{
-			icon: "https://i.ibb.co/XrtQnrpy/city-University.png",
-			institution: "CITY UNIVERSITY",
-			department: "COMPUTER SCIENCE AND ENGINEERING",
-			from: "2018",
-			to: "2022",
-			project: "Online Auction System - Python, Django",
+			icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoGdDDteBb0Sf9-JKwRCDdNnbn9OyPzVruUQ&s",
+			institution: "Nawab Fayzunnessa Govt. College",
+			department: "Bachelor of Business Administration in Management",
+			from: "2015",
+			to: "2019",
+			project: "",
 			research: "",
 		},
-		// masters
-		{
-			icon: "https://i.ibb.co/XrtQnrpy/city-University.png",
-			institution: "CITY UNIVERSITY",
-			department: "COMPUTER SCIENCE AND ENGINEERING",
-			from: "2018",
-			to: "2022",
-			project: "Online Auction System - Python, Django",
+{
+			icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhaQV_nUdatTtf2G8HHcgxOOCfEnLvK9gVYA&s",
+			institution: "Nawab Fayzunnessa Govt. College",
+			department: "Master of Business Administration in Management",
+			from: "",
+			to: "",
+			completed: "2013",
+			project: "",
 			research: "",
-		},
+		}
 	];
 	return (
 		<div id="education" className="w-full md:px-10 py-8 text-white space-y-5">

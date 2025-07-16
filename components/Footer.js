@@ -17,7 +17,7 @@ const Footer = () => {
                     alt="Picture of Anu Radha"
                     width={200}
                     height={200}
-                    className='rounded-4xl'
+                    className='rounded-[50%]'
                 />
             </div>
         </div>

@@ -65,6 +65,26 @@ const nextConfig = {
 				protocol: "https",
 				hostname: "www.svgrepo.com",
 			},
+			{
+				protocol: "https",
+				hostname: "bhsfeni.edu.bd",
+			},
+			{
+				protocol: "https",
+				hostname: "genexinfosys.com",
+			},
+			{
+				protocol: "https",
+				hostname: "cdnmp.plentymarkets.com",
+			},
+			{
+				protocol: "https",
+				hostname: "cdn.wpml.org",
+			},
+			{
+				protocol: "https",
+				hostname: "connectif.ai",
+			},
 		],
 	},
 };

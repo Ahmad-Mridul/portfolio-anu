@@ -26,6 +26,14 @@ const Skills = () => {
 			icon: "https://cdn-icons-png.flaticon.com/512/174/174881.png",
 		},
 		{
+			title: "WooCommerce",
+			icon: "https://connectif.ai/wp-content/uploads/2023/07/woocommerce.png",
+		},
+		{
+			title: "Elementor",
+			icon: "https://cdn.wpml.org/wp-content/uploads/2017/09/Elementor-Logo-Symbol-Red.png",
+		},
+		{
 			title: "Wix",
 			icon: "https://cdn-icons-png.flaticon.com/512/5968/5968770.png",
 		},

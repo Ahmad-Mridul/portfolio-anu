@@ -4,40 +4,29 @@ import ExperienceCard from "./ExperienceCard";
 const AllExperiences = () => {
 	const experiences = [
 		{
-			logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYTGqRVhLtG-pcadT05XplKou6hT-xvy4jRw&s",
-			company: "Rayhan ICT",
+			logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN-2dlDEOJ89leEWHPsgtr2_ErYRfaQsJ6Qg&s",
+			company: "Modern Computer Training Center",
 			position: "Computer Trainer",
-			duration: "March,2019 - January,2020",
-            description:"Conducted structured computer training sessions covering MS Office, internet usage, and basic IT skills. Developed course materials and supported learners in applying digital tools confidently in real-world contexts."
+			duration: "Jan 2023 – Sep 2023",
+			description:
+				"Conducted structured computer training sessions covering MS Office, internet usage, and basic IT skills. Developed course materials and supported learners in applying digital tools confidently in real-world contexts.",
 		},
 		{
-			logo: "https://celebrationsbd.net/wp-content/uploads/2024/03/Asset-12-8-1.png",
-			company: "CelebrationsBD",
-			position: "Graphic Designer",
-			duration: "February,2020 - August,2020",
-            description:"Designed and delivered high-quality graphics for various media, ensuring brand consistency and visual appeal. Collaborated on creative concepts, executed revisions, and maintained up-to-date knowledge of design tools and trends."
+			logo: "https://genexinfosys.com/images/bu_logo.png",
+			company: "Genex Infosys Limited",
+			position: "Customer Service Officer",
+			duration: "Jul 2024 – Dec 2024",
+			description:
+				"Provides support to customers by answering inquiries, resolving issues, and ensuring a high level of customer satisfaction. Acts as the first point of contact, handles complaints professionally, and coordinates with internal teams to deliver timely solutions.",
 		},
 		{
-			logo: "https://sebpo.com/wp-content/uploads/2025/04/SEBPO-Logo-2025.jpg",
-			company: "SEBPO",
-			position: "Executive",
-			duration: "September,2022 - September,2023",
-            description:"Developed and executed data-driven digital ad campaigns, focusing on audience targeting, budget optimization, and performance analysis. Ensured consistent brand messaging and maximized ROI across multiple digital channels."
-		},
-		{
-			logo: "https://www.flytonic.com/wp-content/themes/flytonicstore/images/logo.png",
-			company: "Flytonic",
+			logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz22N0k4TM7_dVAiFfJVDx4cIDMD4GHHZWQg&s",
+			company: "Layan Tech",
 			position: "WordPress Designer",
-			duration: "October,2023 - June,2024",
-            description:"Developed visually appealing and functional WordPress websites tailored to client requirements. Managed theme customization, plugin integration, and performance optimization to ensure a smooth user experience."
+			duration: "Dec 2024 - Continue",
+			description:
+				"Specializes in designing and customizing responsive, user-friendly WordPress websites. Skilled in themes, plugins, and visual builders like Elementor or WPBakery, with a focus on creating engaging and functional designs that meet client goals.",
 		},
-		{
-			logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtsV2QDL5XC2upDQf4TJFe6dTmFR3NyQkYg&s",
-			company: "BulipeTech",
-			position: "Software Engineer(Front-end)",
-			duration: "June,2025 - Continue",
-            description:"Built and maintained scalable front-end features using React.js and integrated them with Express and MongoDB-based backends. Focused on modular design, performance optimization, and user-friendly interfaces."
-		}
 	];
 	return (
 		<div className="">
