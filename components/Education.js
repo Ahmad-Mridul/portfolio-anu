@@ -35,11 +35,11 @@ icon: "https://bhsfeni.edu.bd/wp-content/uploads/2023/10/bhstrans_logo.png",
 		},
 {
 			icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhaQV_nUdatTtf2G8HHcgxOOCfEnLvK9gVYA&s",
-			institution: "Nawab Fayzunnessa Govt. College",
+			institution: "Cumilla Victoria Government College,",
 			department: "Master of Business Administration in Management",
 			from: "",
 			to: "",
-			completed: "2013",
+			completed: "2023",
 			project: "",
 			research: "",
 		}
